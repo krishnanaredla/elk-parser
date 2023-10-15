@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@sematext/logagent": "^3.3.1"
+  }
+}
